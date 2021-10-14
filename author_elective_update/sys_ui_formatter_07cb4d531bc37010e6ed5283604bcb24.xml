@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="DELETE">
+        <active>true</active>
+        <angular_module/>
+        <formatter/>
+        <name>Requested</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-12 10:33:42</sys_created_on>
+        <sys_id>07cb4d531bc37010e6ed5283604bcb24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_formatter_07cb4d531bc37010e6ed5283604bcb24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-12 10:33:42</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5f6f0d321b4c7010c8432f8dee4bcb79</instance_id>
+        <instance_name>dev116252</instance_name>
+        <name>sys_ui_formatter_07cb4d531bc37010e6ed5283604bcb24</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter"><sys_ui_formatter action="INSERT_OR_UPDATE"><active>true</active><angular_module/><formatter/><name>Requested</name><sys_class_name>sys_ui_formatter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 10:33:42</sys_created_on><sys_id>07cb4d531bc37010e6ed5283604bcb24</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Requested</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_formatter_07cb4d531bc37010e6ed5283604bcb24</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 10:33:42</sys_updated_on><table>x_58872_needit_needit</table><type>formatter</type></sys_ui_formatter></record_update>]]></payload>
+        <payload_hash>1819325757</payload_hash>
+        <record_name>Requested</record_name>
+        <reverted_from/>
+        <source>729e8d4a1b077010e6ed5283604bcbdd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-12 10:33:42</sys_created_on>
+        <sys_id>9c4ccd531bc37010e6ed5283604bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c7410ac0d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-12 10:33:42</sys_updated_on>
+        <type>UI Formatter</type>
+        <update_guid>544ccd533dc37010c32eb9e43bbafb6a</update_guid>
+        <update_guid_history>544ccd533dc37010c32eb9e43bbafb6a:1819325757</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-13 09:27:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_formatter">sys_ui_formatter</sys_db_object>
+        <sys_id>37bde14f6f1744f4999bb84e9d5e1f59</sys_id>
+        <sys_metadata>07cb4d531bc37010e6ed5283604bcb24</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">61c5b4261bcbb010e6ed5283604bcb7d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_formatter_07cb4d531bc37010e6ed5283604bcb24</sys_update_name>
+        <sys_update_version display_value="sys_ui_formatter_07cb4d531bc37010e6ed5283604bcb24">9c4ccd531bc37010e6ed5283604bcb6a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-13 09:27:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
